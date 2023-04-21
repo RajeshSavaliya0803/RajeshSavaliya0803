@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshsavaliya0803&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshsavaliya0803" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshsavaliya0803" alt="rajeshsavaliya0803" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mrsavaliya2331" target="blank"><img src="https://img.shields.io/twitter/follow/mrsavaliya2331?logo=twitter&style=for-the-badge" alt="mrsavaliya2331" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajeshsavaliya0803&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
 
 - 🌱 I’m currently learning **NodeJS and ReactJS**
 
@@ -17,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrsavaliya2331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrsavaliya2331" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajesh-savaliya-born3112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajesh-savaliya-born3112/" height="30" width="40" /></a>
+<a href="https://twitter.com/mrsavaliya2331" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="mrsavaliya2331" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/rajesh-savaliya-born3112/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="rajesh-savaliya-born3112/" height="40" width="45" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
