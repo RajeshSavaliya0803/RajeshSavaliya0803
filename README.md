@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeshkumar Savaliya</h1>
+
 <h3 align="center">I am a professional mobile app developer having expertise in Android (Java & Kotlin), Flutter(Dart), and React Native app development.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -25,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshsavaliya0803&show_icons=true&locale=en&layout=compact" alt="rajeshsavaliya0803" /></p>
 
-![Github Stats](https://github-readme-stats.vercel.app?username=rajeshsavaliya0803&show_icons=true&locale=en&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshsavaliya0803&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshsavaliya0803&" alt="rajeshsavaliya0803" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajeshSavaliya0803&border_radius=15)](https://git.io/streak-stats)
